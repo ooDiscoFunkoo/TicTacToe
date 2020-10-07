@@ -757,7 +757,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   buttonList:
-  - {fileID: 1224811977}
+  - {fileID: 2084545995}
   - {fileID: 1946681082}
   - {fileID: 1297956265}
   - {fileID: 1950056833}
@@ -878,7 +878,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1000298828554690, guid: db3bfbebb0d754e6f825975306c93415, type: 2}
       propertyPath: m_Name
-      value: Grid Space (0)
+      value: Grid Space
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: db3bfbebb0d754e6f825975306c93415, type: 2}
@@ -1667,6 +1667,12 @@ RectTransform:
   m_PrefabParentObject: {fileID: 224981270170466370, guid: db3bfbebb0d754e6f825975306c93415,
     type: 2}
   m_PrefabInternal: {fileID: 2067141924}
+--- !u!114 &2084545995 stripped
+MonoBehaviour:
+  m_PrefabParentObject: {fileID: 114099770932790816, guid: db3bfbebb0d754e6f825975306c93415,
+    type: 2}
+  m_PrefabInternal: {fileID: 989548122}
+  m_Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 --- !u!1 &2123876293
 GameObject:
   m_ObjectHideFlags: 0
